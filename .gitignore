@@ -11,8 +11,19 @@
 npm-debug.log
 yarn-error.log
 
-# IDEs and editors
+### WebStorm ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
 .idea/
+.idea/**
+.idea/misc.xml
+.idea/workspace.xml
+workspace.xml
+.idea/**/workspace.xml
+*.iml
+
+# IDEs and editors
 .project
 .classpath
 .c9/
