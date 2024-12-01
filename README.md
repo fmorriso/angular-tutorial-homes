@@ -6,9 +6,8 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 | Tool             |  Version |
 |:-----------------|---------:|
-| @Angular/CLI     |  19.0.12 |
-| Angular          |   19.0.1 |
-| Angular/Material |   19.0.2 |
+| @angular/CLI     |   19.0.2 |
+| angular          |   19.0.1 |
 | WebStorm         | 2024.3.0 |
 | VSCode           |   1.95.3 |
 
