@@ -6,16 +6,17 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 | Tool             |  Version |
 |:-----------------|---------:|
-| @angular/CLI     |   19.0.2 |
-| angular          |   19.0.1 |
+| @angular/CLI     |   19.0.3 |
+| angular          |   19.0.3 |
 | WebStorm         | 2024.3.0 |
 | VSCode           |   1.95.3 |
 
 ## Change History
 
-| Date       | Description                                   |
-|:-----------|:----------------------------------------------|
-| 2024-11-30 | Initial creation                              |
+| Date       | Description               |
+|:-----------|:--------------------------|
+| 2024-11-30 | Initial creation          |
+| 2024-12-04 | Upgrade to Angular 19.0.3 |
 
 ## What you have to change from the videos to make this application work with Angular 19 and beyond
 1. Move the `assets` folder from underneath the `src` folder to underneath the `public` folder.  If you don't move it,
