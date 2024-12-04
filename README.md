@@ -1,7 +1,12 @@
-# HomesApp
+# Angular Tutorial - Homes App
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
+## Important Notes
+1. I did not use the `homes-app-start` code.  Instead, I generated a new Angular project
+using Angular/CLI 19.0.1 (since upgraded):
+
+        `ng new homes-app --style=scss`
 ## Tools Used
 
 | Tool             |  Version |
@@ -18,14 +23,9 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 | 2024-11-30 | Initial creation          |
 | 2024-12-04 | Upgrade to Angular 19.0.3 |
 
-## What you have to change from the videos to make this application work with Angular 19 and beyond
-1. Move the `assets` folder from underneath the `src` folder to underneath the `public` folder.  If you don't move it,
-the following tag will fail with an `HTTP 404 - Not Found` error in your brower:
-```html
-
-```
 ## References
 * [Learning Angular Tutorial Videos](https://www.youtube.com/watch?v=UnOwDuliqZA&list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&index=2)
+* [Homes App Starter Code](goo.gle/homes-app-start)
   
 ## Development server
 
