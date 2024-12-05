@@ -19,6 +19,9 @@ using Angular/CLI 19.0.1 (since upgraded):
 
 1. As part of Video #4, you have to use the short URL mentioned in that video to go get the CSS styles for the various components
 as well as the overall application.  When you see styles for the `Details` component, ignore them until you have finished video #5.
+1. Video #5 does routing different than what a start-from-scratch Angular 19 application does.  The key differences are:
+   1. The `provideRouter(routeConfig)` goes inside `app.config.ts`
+   1. The routes go inside the preexisting `app.routes.ts` file, not the new file referenced in the video. 
 
 ## Tools Used
 
