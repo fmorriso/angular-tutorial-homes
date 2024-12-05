@@ -26,11 +26,11 @@ using Angular/CLI 19.0.1 (since upgraded):
 
 ## Change History
 
-| Date       | Description               |
-|:-----------|:--------------------------|
-| 2024-11-30 | Initial creation          |
-| 2024-12-04 | Upgrade to Angular 19.0.3 |
- | 2024-12-05 | Add Housing List |
+| Date       | Description                                                           |
+|:-----------|:----------------------------------------------------------------------|
+| 2024-11-30 | Initial creation                                                      |
+| 2024-12-04 | Upgrade to Angular 19.0.3                                             |
+| 2024-12-05 | Add Housing List and first set of CSS styles, up to tutorial video #4 |
 
 ## References
 * [Learning Angular Tutorial Videos](https://www.youtube.com/watch?v=UnOwDuliqZA&list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&index=2)
