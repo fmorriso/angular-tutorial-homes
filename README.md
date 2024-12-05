@@ -8,12 +8,13 @@ using Angular/CLI 19.0.1 (since upgraded):
 
         `ng new homes-app --style=scss`
 
-1. I configured WebStorm to generate single quotes around HTML tag attributes instead of double-quotes by:
+1. I like to keep HTML and CSS (or SCSS in my particular case) __**completely separate**__, not commingled as shown in the videos.
+1. I configured `WebStorm` to generate single quotes around HTML tag attributes instead of double-quotes by:
    1. Go to Settings/Preferences: 
    1. Open the settings via File > Settings (Windows/Linux) or WebStorm > Preferences (macOS).
    1. Search for HTML Code Style: 
-   1. Navigate to Editor > Code Style > HTML.
-   1. Change Quote Style: In the "Other" tab, look for the Attribute quotes setting and select Single.
+   1. Navigate to `Editor > Code Style > HTML`.
+   1. Change Quote Style: In the `"Other"` tab, look for the Attribute `quotes` setting and select `Single`.
    1. Apply Changes: Click Apply and then OK. 
 
 1. As part of Video #4, you have to use the short URL mentioned in that video to go get the CSS styles for the various components
