@@ -30,11 +30,12 @@ using Angular/CLI 19.0.1 (since upgraded):
 |:-----------|:--------------------------|
 | 2024-11-30 | Initial creation          |
 | 2024-12-04 | Upgrade to Angular 19.0.3 |
+ | 2024-12-05 | Add Housing List |
 
 ## References
 * [Learning Angular Tutorial Videos](https://www.youtube.com/watch?v=UnOwDuliqZA&list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&index=2)
 * [Homes App Starter Code](goo.gle/homes-app-start)
-  
+* [Homes App Sample JSON data - goo.gle/homes-app-listings](https://gist.github.com/MarkTechson/efe8a9d4727ef33949b78812e66db082)
 ## Development server
 
 To start a local development server, run:
