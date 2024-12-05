@@ -15,6 +15,10 @@ using Angular/CLI 19.0.1 (since upgraded):
    1. Navigate to Editor > Code Style > HTML.
    1. Change Quote Style: In the "Other" tab, look for the Attribute quotes setting and select Single.
    1. Apply Changes: Click Apply and then OK. 
+
+1. As part of Video #4, you have to use the short URL mentioned in that video to go get the CSS styles for the various components
+as well as the overall application.  When you see styles for the `Details` component, ignore them until you have finished video #5.
+
 ## Tools Used
 
 | Tool             |  Version |
