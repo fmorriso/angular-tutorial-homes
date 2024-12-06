@@ -26,7 +26,11 @@ export class DetailsComponent {
 
   constructor() {
     const housingLocationId = Number(this.route.snapshot.params['id']);
-    this.housingLocation = this.housingService.getHousingLocationById(housingLocationId);
+    // asynchronously retrieve a single housing location by its id value.
+    this.housingService.getHousingLocationById(housingLocationId)
+                       .then((housingLocation: HousingLocation | undefined) => {
+                           this.housingLocation = housingLocation;
+                            });
   }
 
   submitApplication() {
