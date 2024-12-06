@@ -22,3 +22,13 @@ button.primary {
   color: white;
   border-radius: 8px;
 }
+
+/* FUTURE - use Bootstrap SCSS styles
+// Import required Bootstrap dependencies
+@import 'node_modules/bootstrap/scss/functions';
+@import 'node_modules/bootstrap/scss/variables';
+@import 'node_modules/bootstrap/scss/mixins';
+
+// Import only the forms partial
+@import 'node_modules/bootstrap/scss/forms';
+*/

@@ -39,6 +39,7 @@ as well as the overall application.  When you see styles for the `Details` compo
 | 2024-11-30 | Initial creation                                   |
 | 2024-12-04 | Upgrade to Angular 19.0.3                          |
 | 2024-12-05 | Add Housing List and logic through end of video #5 |
+| 2024-12-06 | Add details form                                   |
 
 ## References
 * [Learning Angular Tutorial Videos](https://www.youtube.com/watch?v=UnOwDuliqZA&list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&index=2)
