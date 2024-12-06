@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet, RouterModule } from '@angular/router';
 //
 import {HomeComponent} from './home/home.component';
-import {AngularVersionInformationService} from './angular-version-information.service';
+import {AngularVersionInformationService} from './services/angular-version-information.service';
 
 @Component({
   selector: 'app-root',

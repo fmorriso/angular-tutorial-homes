@@ -3,7 +3,7 @@ import {CommonModule} from '@angular/common';
 //
 import {HousingLocationComponent} from '../housing-location/housing-location.component';
 import {HousingLocation} from '../housing-location';
-import {HousingService} from '../housing.service';
+import {HousingService} from '../services/housing.service';
 
 //
 @Component({
